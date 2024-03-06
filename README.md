@@ -5,3 +5,5 @@
 Demo https://haste.nyakawaii.link
 
 Static files are from https://github.com/toptal/haste-server
+
+:)
